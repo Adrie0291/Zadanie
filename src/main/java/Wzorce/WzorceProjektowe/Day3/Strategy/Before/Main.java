@@ -7,6 +7,9 @@ public class Main {
         rocky.leftPunch();
         rocky.rightPunch();
         rocky.leftPunch();
+        rocky.headPunch();
+        rocky.rightLegPunch();
+        rocky.leftLegPunch();
 
     }
 }
