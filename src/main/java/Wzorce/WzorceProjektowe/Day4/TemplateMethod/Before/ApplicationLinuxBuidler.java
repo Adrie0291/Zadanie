@@ -8,14 +8,14 @@ public class ApplicationLinuxBuidler {
     }
 
     private void openSystem() {
-        System.out.println("System opened");
+        System.out.println("PResses power button. Your OS is starting");
     }
 
     private void installIDE() {
-        System.out.println("IDE installed");
+        System.out.println("apt-get install idea");
     }
 
     private void runIDE() {
-        System.out.println("IDE ran");
+        System.out.println("./idea/run.sh");
     }
 }

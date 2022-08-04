@@ -9,19 +9,19 @@ public class ApplicationWindowsBuilder {
     }
 
     private void openSystem() {
-        System.out.println("System opened");
+        System.out.println("Press power button. Your OS is starting");
     }
 
     private void installIDE() {
-        System.out.println("IDE installed");
+        System.out.println("Switch rpogram in control panel");
     }
 
     private void restartSystem() {
-        System.out.println("System restarded");
+        System.out.println("System restarted");
     }
 
     private void runIDE() {
-        System.out.println("IDE ran");
+        System.out.println("Double click on shortcut ");
     }
 }
 
