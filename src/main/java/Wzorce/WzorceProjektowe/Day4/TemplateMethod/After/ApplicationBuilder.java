@@ -9,12 +9,13 @@ public abstract class ApplicationBuilder {
     }
 
     public void openSystem() {
-        System.out.println("Pressed power button. Your OS is starting");
+        System.out.println("Pressed power button. Your OS is starting ABSTRACT");
     }
 
     abstract void installIde();
 
     abstract void runIDE();
+
     abstract void restart();
 }
 

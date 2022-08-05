@@ -1,6 +1,6 @@
 package Wzorce.WzorceProjektowe.Day4.TemplateMethod.After.ShopComp;
 
-public class EconomicComputer extends ComputerBuilder{
+public class EconomicComputer extends ComputerBuilder {
 
 
     @Override
