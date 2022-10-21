@@ -1,4 +1,4 @@
-package Wzorce.WzorceProjektowe.Day4.Factory.Pizza.SimpleFactory.Basic;
+package Wzorce.WzorceProjektowe.Day4.Factory.Pizza.SimpleFactory.SIMPLE;
 
 public class Wieprzowy extends Burger {
     public Wieprzowy() {
